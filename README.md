@@ -19,11 +19,12 @@ pip install pyntor
   * These functions take a sequence as input and systematically pairs the elements, either with another element or another pair, ultimately producing a pair as output. Flattening the pair should generate a sequence containing the original elements.
 * The ability to encode negative numbers using a simple [folding function](https://mathworld.wolfram.com/FoldingFunction.html)
 
+## Futures
 
-## Future
-
-* Automatic folding and unfolding of negative integers as elements of a `Pair`
-* N-ary decoding of a value based on bracketing method
+* [ ] Automatic folding and unfolding of negative integers as elements of a `Pair`
+* [ ] N-ary decoding of a value based on bracketing method
+* [ ] Cartesian product of two sequences
+* [ ] Cartesian pairing of two sequences
 
 ## A Quick Example
 
